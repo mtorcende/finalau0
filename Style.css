@@ -1,0 +1,71 @@
+.albums{
+	height: 300px;
+	width: 300px;
+	border: solid;
+	border-color: black;
+	display: flex;
+	margin-left: auto;
+    margin-right: auto 
+	
+}
+body{
+	background-color: #FF8A8A;
+	font-family: "Times New Roman",Serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #BC544B;
+}
+
+.logu{
+  float: left;
+}
+
+.button{
+	float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #D21404;
+}
+.logo{
+	height: 34px;
+	width: 50px;
+	margin: 10%;
+}
+p {
+	margin-left: auto;
+	margin-right: auto;
+	width: 20em;
+}
+h3{
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
+.contact {
+	text-decoration: none;
+	color:black;
+	text-align: center;
+}
+.jose {
+	margin-left: 38%;
+	width: 310px;
+	height: 300px;
+	border: solid;
+	border-color: black;
+}
